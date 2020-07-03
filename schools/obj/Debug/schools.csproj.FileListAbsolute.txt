@@ -1,0 +1,17 @@
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.csprojAssemblyReference.cache
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.Students.resources
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.Properties.Resources.resources
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.csproj.GenerateResource.cache
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.csproj.CoreCompileInputs.cache
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\schools.exe.config
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\schools.exe
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\schools.pdb
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\EntityFramework.dll
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\EntityFramework.xml
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikit\source\repos\schools\schools\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.csproj.CopyComplete
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.exe
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.pdb
+C:\Users\Nikit\source\repos\schools\schools\obj\Debug\schools.Teachercs.resources
